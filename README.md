@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Crezilene/Crezilene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Atualmente trabalho no ramo de Geotecnologia.
+- Estou participando de um treinamento para aprofudar meus conhecimentos em JavaScript e React Native.
+- Atualmente estou criando um projeto de aplicação web para a empresa onde trabalho.
+----------------------------------------------------------------------------------------------------------
+## Projetos já criados:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> - Apresentação de solução para estacionamentos iteligentes realizada com Arduino utilizando a linguagem C#.
+> - Criação de Futebol com Robôs realizada com Arduinos na linguagem C.
+> - Trabalhos como Freelancer na area de Desenvolvimento Web - FrontEnd.
+
+---------------------------------------------------------------------------------------------------------
+## No que posso ajudá-los:
+
+> - Desenvolvimento Web.
+> - Desenvolvimento de Scripts Python.
+> - Duvidas relacionadas aos Arduinos (Hardware e Software).
+> - Utilização das plataformas QGis e ArcGis.
+
