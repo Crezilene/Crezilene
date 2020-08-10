@@ -1,8 +1,20 @@
 # Olá Mundo!
 
 - Atualmente trabalho no ramo de Geotecnologia.
-- Estou participando de um treinamento para aprofudar meus conhecimentos em JavaScript e React Native.
 - Atualmente estou criando um projeto de aplicação web para a empresa onde trabalho.
+----------------------------------------------------------------------------------------------------------
+## No que eu tenho mais familiaridade?
+
+> - HTML
+> - CSS
+> - JavaScript
+> - Bootstrap
+> - NodeJS
+> - ReactJS
+> - Python
+> - C
+> - C++
+
 ----------------------------------------------------------------------------------------------------------
 ## Projetos já criados:
 
@@ -17,4 +29,5 @@
 > - Desenvolvimento de Scripts Python.
 > - Duvidas relacionadas aos Arduinos (Hardware e Software).
 > - Utilização das plataformas QGis e ArcGis.
+
 
